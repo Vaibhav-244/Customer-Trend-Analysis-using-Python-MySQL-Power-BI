@@ -7,6 +7,7 @@ Python – Data cleaning, preprocessing, Exploratory Data Analysis (EDA), and pa
 Pandas & NumPy – Data manipulation and analysis
 MySQL – SQL-based analysis, aggregation, segmentation, and business queries
 Power BI – Interactive dashboard development, KPI analysis, and business visualization
+
 🔍 Project Workflow
 1. Exploratory Data Analysis – Python
 
@@ -74,19 +75,4 @@ Raw Data → Python EDA → MySQL Analysis → Pattern Identification → Power 
 
 This project demonstrates practical skills in data cleaning, exploratory analysis, SQL, data visualization, dashboard development, and business-oriented data interpretation.
 
-📁 Project Structure
-Customer-Shopping-Behavior/
-│
-├── data/
-│   └── customer_shopping_behavior.csv
-│
-├── python/
-│   └── customer_behavior_eda.ipynb
-│
-├── sql/
-│   └── customer_behavior_mysql_queries.sql
-│
-├── powerbi/
-│   └── customer_behavior_dashboard.pbix
-│
-└── README.md
+
